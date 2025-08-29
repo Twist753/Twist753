@@ -1,5 +1,4 @@
-![ascii-animation](https://github.com/user-attachments/assets/d35a2dce-7b4c-4a28-b528-82c2f20d3787)
-
+![ascii-animation (1)](https://github.com/user-attachments/assets/eb617770-98a5-4c0b-8707-4ee875744fdd)
 
 # Abhinav Tyagi
 <div align="left">
