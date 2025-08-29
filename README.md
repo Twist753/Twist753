@@ -3,8 +3,6 @@
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
 </div>
 
----
-
 <div align="left">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Twist753&color=00d4ff&style=flat-square)
@@ -20,8 +18,6 @@
 - Passionate about **Deep Learning & Competitive Programming**  
 - Of Course I love coffee ;)  
 
----
-
 ## Connect & Collaborate  
 
 <div align="left">
@@ -31,8 +27,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinav-tyagi-portfolio.vercel.app/)
 
 </div>
-
----
 
 ## Technical Arsenal
 
@@ -91,16 +85,12 @@
   </tr>
 </table>
 
----
-
 ## Development Metrics  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twist753&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&rank_icon=percentile"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twist753&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </div>
-
----
 
 ## Code Philosophy  
 
@@ -110,8 +100,6 @@
 > — Some Engineer  
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling&width=100%"/>
