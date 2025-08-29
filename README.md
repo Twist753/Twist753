@@ -1,4 +1,9 @@
-![gif](https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
+       alt="header gif" 
+       style="width:100%; height:200px; object-fit:cover;"/>
+</div>
+
 # Abhinav Tyagi
 <div align="left">
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
