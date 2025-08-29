@@ -1,14 +1,14 @@
 <div align="center" style="background-color: #000000; padding: 20px; margin: 0; border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/2b513ab7-c5cd-4492-b779-d2a4fdb4dc53" 
+  <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
        style="width: auto; height: 200px; display: inline-block; margin: 0; padding: 0;"/><!--
-  --><img src="https://github.com/user-attachments/assets/2b513ab7-c5cd-4492-b779-d2a4fdb4dc53" 
+  --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
        style="width: auto; height: 200px; display: inline-block; margin: 0; padding: 0;"/><!--
-  --><img src="https://github.com/user-attachments/assets/2b513ab7-c5cd-4492-b779-d2a4fdb4dc53" 
+  --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
        style="width: auto; height: 200px; display: inline-block; margin: 0; padding: 0;"/><!--
-  --><img src="https://github.com/user-attachments/assets/2b513ab7-c5cd-4492-b779-d2a4fdb4dc53" 
+  --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
        style="width: auto; height: 200px; display: inline-block; margin: 0; padding: 0;"/>
 </div>
@@ -17,7 +17,6 @@
 <div align="left">
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
 </div>
-![wall-gif]()
 
 <div align="left">
   
