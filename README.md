@@ -1,5 +1,4 @@
-![ascii-animation (1)](https://github.com/user-attachments/assets/eb617770-98a5-4c0b-8707-4ee875744fdd)
-
+![gif](https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d)
 # Abhinav Tyagi
 <div align="left">
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
