@@ -106,6 +106,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling&width=100%"/>
+---
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3748,50:4A5568,100:2D3748&height=80&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
 </div>
