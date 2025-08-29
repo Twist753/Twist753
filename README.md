@@ -6,24 +6,21 @@
 ---
 
 <div align="center">
-
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=Twist753&color=00d4ff&style=flat-square)
   ![GitHub followers](https://img.shields.io/github/followers/Twist753?color=00d4ff&style=flat-square)
   ![GitHub stars](https://img.shields.io/github/stars/Twist753?color=00d4ff&style=flat-square)
-
+  
 </div>
 
-## About Me
+## About Me  
 
-```typescript
-const abhinav = {
-    education: "B.E. Computer Science | Final Year",
-    currentFocus: ["Artificial Intelligence", "Machine Learning", "Data Structures & Algorithms"],
-    interests: ["Deep Learning", "System Design", "Competitive Programming"],
-    workingOn: "AI/ML Projects and Algorithm Optimization",
-    funFact: "Debugging is like being a detective in a crime movie where you are also the murderer"
-};
-```
+- **Final Year Computer Science Student**  
+- Currently exploring **AI/ML, DSA, and System Design**  
+- Passionate about **Deep Learning & Competitive Programming**  
+- Love building **real-world AI projects** and optimizing algorithms  
+
+---
 
 ## Technical Arsenal
 
@@ -82,50 +79,40 @@ const abhinav = {
   </tr>
 </table>
 
-## Connect & Collaborate
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-tyagi-73373b281" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/Twist753" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
-  </a>
-  <a href="https://twist753.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
+## Connect & Collaborate  
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tyagi-73373b281)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Twist753)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://twist753.github.io/portfolio)
+
 </div>
 
-## Development Metrics
+---
+
+## Development Metrics  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twist753&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twist753&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </div>
 
-## Achievement Showcase
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Twist753&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-## Code Philosophy
+## Code Philosophy  
 
 <div align="center">
 
-  ```ascii
-  ╔══════════════════════════════════════════════════════════════════════════╗
-  ║  "Clean code always looks like it                                        ║
-  ║   was written by someone who cares"                                      ║
-  ║                                                                          ║
-  ║           - Robert C. Martin                                             ║
-  ╚══════════════════════════════════════════════════════════════════════════╝
-  ```
+> *"Clean code always looks like it was written by someone who cares."*  
+> — Robert C. Martin  
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&animation=twinkling&width=100%"/>
 </div>
