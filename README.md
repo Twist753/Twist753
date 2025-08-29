@@ -1,11 +1,11 @@
 # Abhinav Tyagi
-<div align="center">
+<div align="left">
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Twist753&color=00d4ff&style=flat-square)
   ![GitHub followers](https://img.shields.io/github/followers/Twist753?color=00d4ff&style=flat-square)
@@ -18,7 +18,19 @@
 - **Final Year Computer Science Student**  
 - Currently exploring **AI/ML, DSA, and System Design**  
 - Passionate about **Deep Learning & Competitive Programming**  
-- Love building **real-world AI projects** and optimizing algorithms  
+- Of Course I love coffee ;)  
+
+---
+
+## Connect & Collaborate  
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tyagi-73373b281) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Twist753/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinav-tyagi-portfolio.vercel.app/)
+
+</div>
 
 ---
 
@@ -81,18 +93,6 @@
 
 ---
 
-## Connect & Collaborate  
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tyagi-73373b281)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Twist753)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://twist753.github.io/portfolio)
-
-</div>
-
----
-
 ## Development Metrics  
 
 <div align="center">
@@ -106,8 +106,8 @@
 
 <div align="center">
 
-> *"Clean code always looks like it was written by someone who cares."*  
-> — Robert C. Martin  
+> *"If it works, don't touch it"*  
+> — Some Engineer  
 
 </div>
 
