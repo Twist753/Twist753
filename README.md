@@ -13,27 +13,10 @@
        style="width: 200px; height: 160px; display: inline-block; margin: 0; padding: 0;"/>
 </div>
 
-# Abhinav Tyagi
+# Hi, I'm Abhinav Tyagi :]
 <div align="left">
   <h3>Computer Science Student | AI/ML Engineer | Software Developer</h3>
 </div>
-
-<div align="left">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Twist753&color=00d4ff&style=flat-square)
-  ![GitHub followers](https://img.shields.io/github/followers/Twist753?color=00d4ff&style=flat-square)
-  ![GitHub stars](https://img.shields.io/github/stars/Twist753?color=00d4ff&style=flat-square)
-  
-</div>
-
-## About Me  
-
-- **Final Year Computer Science Student**  
-- Currently exploring **AI/ML, DSA, and System Design**  
-- Passionate about **Deep Learning & Competitive Programming**  
-- Of Course I love coffee ;)  
-
-## Connect & Collaborate  
 
 <div align="left">
 
@@ -42,6 +25,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhinav-tyagi-portfolio.vercel.app/)
 
 </div>
+
+## About Me  
+
+- **Final Year Computer Science Student**  
+- Currently exploring **AI/ML and DSA**  
+- Passionate about **Deep Learning & Competitive Programming**  
+- Of Course I love coffee ;)  
 
 ## Technical Arsenal
 
@@ -67,10 +57,6 @@
       <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
       <br>TensorFlow
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -86,21 +72,25 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
   </tr>
 </table>
 
 ## Development Metrics  
+
+<div align="left">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Twist753&color=00d4ff&style=flat-square)
+  ![GitHub followers](https://img.shields.io/github/followers/Twist753?color=00d4ff&style=flat-square)
+  ![GitHub stars](https://img.shields.io/github/stars/Twist753?color=00d4ff&style=flat-square)
+  
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Twist753&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics&rank_icon=percentile"/>
@@ -112,7 +102,7 @@
 <div align="center">
 
 > *"If it works, don't touch it"*  
-> — Some Engineer  
+> — Some sleep-deprived Engineer  
 
 </div>
 
