@@ -1,7 +1,16 @@
-<div align="center">
+<div align="center" style="background-color: black; padding: 0; margin: 0;">
   <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
-       style="width:100%; height:200px; object-fit:cover;"/>
+       style="width: auto; height: 200px; display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
+       alt="header gif" 
+       style="width: auto; height: 200px; display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
+       alt="header gif" 
+       style="width: auto; height: 200px; display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
+       alt="header gif" 
+       style="width: auto; height: 200px; display: inline-block;"/>
 </div>
 
 # Abhinav Tyagi
