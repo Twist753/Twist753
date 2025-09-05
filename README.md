@@ -1,18 +1,16 @@
 <div align="center" style="background-color: #000000; padding: 20px; margin: 0; border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
+       style="width: 180px; height: 160px; display: inline-block; margin: 0; padding: 0;"/><!--
   --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
+       style="width: 180px; height: 160px; display: inline-block; margin: 0; padding: 0;"/><!--
   --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
+       style="width: 180px; height: 160px; display: inline-block; margin: 0; padding: 0;"/><!--
   --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
        alt="header gif" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
-  --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/>
+       style="width: 180px; height: 160px; display: inline-block; margin: 0; padding: 0;"/>
 </div>
 
 # Hi, I'm Abhinav Tyagi :]
