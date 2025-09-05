@@ -12,10 +12,6 @@
        alt="header gif" 
        style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
   --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
-       alt="header gif" 
-       style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/><!--
-  --><img src="https://github.com/user-attachments/assets/40a0f0ff-16ef-4956-9e12-724b934ed78d" 
-       alt="header gif" 
        style="width: 160px; height: 120px; display: inline-block; margin: 0; padding: 0;"/>
 </div>
 
